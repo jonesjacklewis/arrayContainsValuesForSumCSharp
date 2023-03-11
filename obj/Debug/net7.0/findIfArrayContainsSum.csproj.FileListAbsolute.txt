@@ -1,0 +1,15 @@
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/bin/Debug/net7.0/findIfArrayContainsSum
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/bin/Debug/net7.0/findIfArrayContainsSum.deps.json
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/bin/Debug/net7.0/findIfArrayContainsSum.runtimeconfig.json
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/bin/Debug/net7.0/findIfArrayContainsSum.dll
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/bin/Debug/net7.0/findIfArrayContainsSum.pdb
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.csproj.AssemblyReference.cache
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.AssemblyInfoInputs.cache
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.AssemblyInfo.cs
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.csproj.CoreCompileInputs.cache
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.dll
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/refint/findIfArrayContainsSum.dll
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.pdb
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/findIfArrayContainsSum.genruntimeconfig.cache
+/Users/jackjones/projects/csharp/findIfArrayContainsSum/obj/Debug/net7.0/ref/findIfArrayContainsSum.dll
